@@ -1,0 +1,21 @@
+[
+	{
+		"nome": "Camilla",
+		"anni": 34,
+		"sport": [
+			"American Football",
+			"Padel"
+		],
+		"italia": true,
+		"children": null
+	},
+	{
+		"nome": "Annamaria",
+		"anni": 68,
+		"sport": [
+			"Nuoto"
+		],
+		"italia": true,
+		"children": 6
+	}
+]
